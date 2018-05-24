@@ -1,7 +1,7 @@
 # DA153
 Đây là bản mới tại thời điểm mình đăng, chú ý đây là chỉ là chia sẻ và học hỏi ko nên thương mại hóa
 
-Chú ý bản này chỉ chạy được trên Centos 7 64bit
+P/s: Chú ý bản này chỉ chạy được trên Centos 7 64bit
 Cách cài:
 gõ: 
 yum -y install nano wget perl
